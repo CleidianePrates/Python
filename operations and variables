@@ -1,0 +1,7 @@
+faturamento = 40000
+custo = 500
+lucro = faturamento - custo
+
+print('O faturamento da loja foi ' + str(faturamento))
+print ('O custo da loja foi ' + str(custo))
+print ('O lucro da loja foi ' + str(lucro) +  ' reais')
